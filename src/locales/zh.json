@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "作文网"
+  },
+  "nav": {
+    "input": "输入作文",
+    "list": "作文列表"
+  },
+  "input": {
+    "title": "标题",
+    "content": "内容",
+    "submit": "保存作文",
+    "saved": "作文已保存！",
+    "error": "保存失败。"
+  },
+  "list": {
+    "loading": "加载中...",
+    "empty": "暂无作文。",
+    "back": "返回列表"
+  },
+  "detail": {
+    "created": "创建于"
+  }
+}
