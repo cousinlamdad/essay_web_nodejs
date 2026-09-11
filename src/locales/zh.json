@@ -1,24 +1,24 @@
 {
   "app": {
-    "title": "作文网"
+    "title": "作文網"
   },
   "nav": {
-    "input": "上传",
+    "input": "上傳",
     "list": "列表"
   },
   "input": {
-    "title": "标题",
-    "content": "内容",
-    "submit": "上传作文",
-    "saved": "作文已上传！",
-    "error": "上传失败。"
+    "title": "標題",
+    "content": "內容",
+    "submit": "上傳作文",
+    "saved": "作文已上傳！",
+    "error": "上傳失敗。"
   },
   "list": {
-    "loading": "加载中...",
-    "empty": "暂无作文。",
+    "loading": "載入中...",
+    "empty": "暫無作文。",
     "back": "返回列表"
   },
   "detail": {
-    "created": "创建于"
+    "created": "創建於"
   }
 }
