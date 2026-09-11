@@ -1,0 +1,19 @@
+name: Deploy to Ubuntu Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Deploy Application
+        run: |
+          cd /var/www/essay_web
+          git pull origin main
+          npm install
+          npm run build
+          pm2 restart essay-web
