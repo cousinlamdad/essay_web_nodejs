@@ -9,9 +9,9 @@
   "input": {
     "title": "Title",
     "content": "Content",
-    "submit": "Save Essay",
-    "saved": "Essay saved!",
-    "error": "Failed to save essay."
+    "submit": "Upload Essay",
+    "saved": "Essay uploaded!",
+    "error": "Failed to upload essay."
   },
   "list": {
     "loading": "Loading...",

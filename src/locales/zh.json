@@ -9,9 +9,9 @@
   "input": {
     "title": "标题",
     "content": "内容",
-    "submit": "保存作文",
-    "saved": "作文已保存！",
-    "error": "保存失败。"
+    "submit": "上传作文",
+    "saved": "作文已上传！",
+    "error": "上传失败。"
   },
   "list": {
     "loading": "加载中...",
