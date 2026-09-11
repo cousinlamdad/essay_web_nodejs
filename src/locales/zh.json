@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "作文網"
+    "title": "文章網"
   },
   "nav": {
     "input": "上傳",
@@ -9,8 +9,8 @@
   "input": {
     "title": "標題",
     "content": "內容",
-    "submit": "上傳作文",
-    "saved": "作文已上傳！",
+    "submit": "上傳文章",
+    "saved": "文章已上傳！",
     "error": "上傳失敗。"
   },
   "list": {

@@ -8,11 +8,9 @@ on:
 jobs:
   deploy:
     runs-on: self-hosted
-
     steps:
-      - name: Deploy Application
+      - working-directory: /var/www/essay_web
         run: |
-          cd /var/www/essay_web
           git pull origin main
           npm install
           npm run build
