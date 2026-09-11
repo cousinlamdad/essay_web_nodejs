@@ -3,8 +3,8 @@
     "title": "作文网"
   },
   "nav": {
-    "input": "上传作文",
-    "list": "作文列表"
+    "input": "上传",
+    "list": "列表"
   },
   "input": {
     "title": "标题",
