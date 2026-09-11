@@ -12,8 +12,8 @@ function App() {
       <header className="app-header">
         <h1>{t('app.title')}</h1>
         <nav>
-          <Link to="/">{t('nav.input')}</Link>
           <Link to="/essays">{t('nav.list')}</Link>
+          <Link to="/">{t('nav.input')}</Link>
           <button
             type="button"
             onClick={() => i18n.changeLanguage(i18n.language === 'en' ? 'zh' : 'en')}
